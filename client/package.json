@@ -10,10 +10,7 @@
         "preview": "vite preview"
     },
     "dependencies": {
-<<<<<<< HEAD
-=======
         "@fortawesome/fontawesome-svg-core": "^6.6.0",
->>>>>>> 770829d5e38e1fc7c788bd8cc849673f30faf3df
         "@fortawesome/free-solid-svg-icons": "^6.6.0",
         "@fortawesome/react-fontawesome": "^0.2.2",
         "@uiw/codemirror-extensions-color": "^4.21.21",
