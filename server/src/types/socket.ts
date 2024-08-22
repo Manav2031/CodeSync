@@ -26,11 +26,6 @@ enum SocketEvent {
 	REQUEST_DRAWING = "request-drawing",
 	SYNC_DRAWING = "sync-drawing",
 	DRAWING_UPDATE = "drawing-update",
-	ADD_STREAM = "add-stream",
-	REMOVE_STREAM = "remove-stream",
-    SIGNAL_ICE_CANDIDATE = "signal-ice-candidate",
-	SIGNAL_OFFER = "signal-offer",
-	SIGNAL_ANSWER = "signal-answer"
 }
 
 interface SocketContext {
